@@ -1,0 +1,25 @@
+{
+  "name": "boo",
+  "version": "1.0.0",
+  "description": "Just boo!  (Okay, Adobe Animator fun.)",
+  "main": "Graveyard_practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablobrady/boo.git"
+  },
+  "keywords": [
+    "boo",
+    "halloween",
+    "Adobe",
+    "Animator"
+  ],
+  "author": "Paul Brady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablobrady/boo/issues"
+  },
+  "homepage": "https://github.com/pablobrady/boo#readme"
+}
