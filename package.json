@@ -2,13 +2,14 @@
   "name": "boo",
   "version": "1.0.0",
   "description": "Just boo!  (Okay, Adobe Animator fun.)",
-  "main": "Graveyard_practice.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pablobrady/boo.git"
+    "url": "git+https://github.com/pablobrady/boo.git",
+    "email": "pablo.brady@gmail.com"
   },
   "keywords": [
     "boo",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/pablobrady/boo/issues"
   },
-  "homepage": "https://github.com/pablobrady/boo#readme"
+  "homepage": "https://github.com/pablobrady/boo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+  }
 }
